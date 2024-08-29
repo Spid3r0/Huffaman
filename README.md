@@ -12,4 +12,4 @@ A data compression technique called Huffman coding seeks to express commonly use
 - https://www.programiz.com/dsa/huffman-coding
 
 
-<img src="https://i.stack.imgur.com/1fEJE.png" width=50% height=30%>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Huffman_tree_2.svg/330px-Huffman_tree_2.svg.png" width=50% height=30%>
